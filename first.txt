@@ -1,5 +1,4 @@
 our best to other
 new line
-branchs
-linco
-thirdn
+lincons
+>>>>>>> lincon
